@@ -4,7 +4,7 @@ this is my first github exercise
 *this* is italic
 __THIS__ is bold
 [this](https://github.com/bilbobiber/Hello-world/edit/master/README.md) is linked
-![this](/images/logo.png) isn't right
+~~this~~ is crossed out
 
 As Kanye West said:
 
