@@ -6,7 +6,7 @@ __THIS__ is bold
 [this](https://github.com/bilbobiber/Hello-world/edit/master/README.md) is linked
 ~~this~~ is crossed out
 :EMOJICODE:
-:+1
+:+1:
 As Kanye West said:
 
 > We're living the future so
