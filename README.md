@@ -11,6 +11,7 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-```def foo():
+```python
+def foo():
     if not bar:
         return True```
