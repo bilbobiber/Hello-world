@@ -13,5 +13,4 @@ As Kanye West said:
 
 ```def foo():
     if not bar:
-        return True
-```
+        return True```
